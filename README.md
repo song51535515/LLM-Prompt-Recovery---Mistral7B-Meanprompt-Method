@@ -52,6 +52,7 @@ Only transformers, accelerate and bitsandbytes may need to be added if not prese
 
 ## 📁Dataset
 This project targets the Kaggle competition **LLM Prompt Recovery**.
+
 https://www.kaggle.com/competitions/llm-prompt-recovery/data
 
 Required files (CSV or CSV.ZIP):
@@ -78,6 +79,7 @@ Upload the competition dataset and [mistral-7b-it-v02 model](https://www.kaggle.
 
 
 **3. Run the Script and Get the Output**
+
 The script generates a rewrite prompt words submission file (e.g., `submission.csv`).
 ![输入图片说明](/img/1.jpg)
 
