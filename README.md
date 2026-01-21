@@ -14,7 +14,7 @@ The performance is evaluated using sentence-t5-base to compute embedding vectors
 
 ### Mistral7B-Meanprompt-Method (Updated Version)
 
-This version is designed to be **engineering-friendly, extensible, and competition-ready**, yielding better results, with scores of **0.6429** on the public leaderboard and **0.6473** on the private leaderboard.
+This version is designed to be **engineering-friendly, extensible, and competition-ready**, yielding better results, with scores of **0.6429** on the public leaderboard and **0.6473** on the private leaderboard(The Kaggle competition has ended, and this is the score obtained after reproducing and submitting Kaggle in my own environment).
 
 -   Introduces a **mean / canonical prompt strategy**
     
