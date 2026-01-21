@@ -75,7 +75,7 @@ Upload the competition dataset and [mistral-7b-it-v02 model](https://www.kaggle.
 
 The script generates a rewrite prompt words submission file (e.g., `submission.csv`).
 
-![输入图片说明](/img/1.jpg)
+![输入图片说明](/1.jpg)
 
 ## 🔧Key Design Changes
 
