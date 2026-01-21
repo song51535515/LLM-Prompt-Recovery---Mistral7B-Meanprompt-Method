@@ -170,9 +170,9 @@ these sections are removed entirely
     
 -   More stable public/private LB behavior
 
-### Code Structure Comparison
+## 5. Code Structure Comparison
 
-**Mistral 7B Prompt Recovery (Baseline)**
+**Mistral 7B Prompt Recovery (Before)**
 
 ```python
 Input texts
@@ -183,7 +183,7 @@ Direct output (no correction)
 
 ```
 
-**Mistral7B-Meanprompt-Method (Modified)**
+**Mistral7B-Meanprompt-Method (After)**
 
 ```python
 Input texts
